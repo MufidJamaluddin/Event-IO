@@ -1,6 +1,6 @@
 # Event-IO
 
-Event-IO is a java console application.
+Event-IO is a java console application for input and show traveller event
 
 # Features of This App:
 1. Determine the number of events to be entered
